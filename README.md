@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Using ReactJs**
 
-- 👨‍💻 All of my projects are available at [devabdulsaboor.netlify.app](devabdulsaboor.netlify.app)
+- 👨‍💻 All of my projects are available at [https://devabdulsaboor.netlify.app](https://devabdulsaboor.netlify.app/)
 
 - 💬 Ask me about **React, Javascript, Html and CSS**
 
